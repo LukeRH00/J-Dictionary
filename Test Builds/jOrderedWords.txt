@@ -1,0 +1,249 @@
+1 あたえる
+	与える  to_give/bestow
+
+1 ある
+	有る  to_exist/be
+
+1 あれ
+	あれ  that(near_neither)
+
+1 いち
+	一  one
+
+1 いつか
+	いつか  sometime
+
+1 いま
+	今  now
+
+1 うたがう
+	疑う  to_doubt/mistrust/suspect
+
+1 うちゅう
+	宇宙  space/universe
+
+1 うちゅうきぼ
+	宇宙規模  astronomical(adj_for_scale)
+
+1 うつる
+	映る  to_be_reflected/projected/displayed/harmonize
+
+1 えいち
+	英知  wisdom/intellect
+
+1 おりかさなる
+	折り重なる  to_lie_in_a_heap/pile_up
+
+1 おる
+	折る  to_break/fracture/fold/bend
+
+1 おろか
+	愚か  foolish/stupid
+
+1 おわる
+	終わる  to_end/finish
+
+1 かこ
+	過去  Past
+
+1 かならず
+	必ず  always/certainly
+
+1 かみ
+	神  God
+
+1 かんぜん
+	完全  Perfect/Complete
+
+1 かんそくしゃ
+	観測者  Observer
+
+1 がいねん
+	概念  general-idea/concept
+
+1 きせい
+	規制  regulation/control
+
+1 きせき
+	奇跡  miracle
+
+1 きた
+	北  north
+
+1 きたる
+	来る  next/coming
+
+1 きづく
+	気付く  to_notice/reaize
+
+1 きぼ
+	規模  scale/scope/structure
+
+1 きゅう
+	九  nine
+
+1 きんこう
+	均衡  balance
+
+1 くる
+	来る  to_come/arrive
+
+1 ぐうぜん
+	偶然  coincidence/chance
+
+1 けしき
+	景色  scenery/landscape
+
+1 こと
+	事  thing/matter
+
+1 これ
+	これ  this(near_speaker)
+
+1 ご
+	五  five
+
+1 さえ
+	さえ  even(including,not_numerical)
+
+1 さす
+	指す  to_point/nominate/indicate
+
+1 さん
+	三  three
+
+1 ざる
+	ざる  not/un-
+
+1 し
+	四  four
+
+1 しち
+	七  seven
+
+1 しゅうそく
+	収束  resolution/conclusion/convergence(math)
+
+1 しんじる
+	信じる  to_believe
+
+1 じかん
+	時間  time/hour
+
+1 じゅう
+	十  ten
+
+1 せかい
+	世界  world
+
+1 せん
+	線  line
+
+1 せんたく
+	選択  choice/option
+
+1 ぜったい
+	絶対  absolute
+
+1 そむく
+	背く  to_counter/disobey
+
+1 それ
+	それ  that(near_other)
+
+1 そんざい
+	存在  existence/being
+
+1 ちかづく
+	近づく  to_approach
+
+1 つくりだす
+	作り出す  to_create/produce
+
+1 つくる
+	作る  to_make/build
+
+1 できる
+	出来る  to_be_able/ready
+
+1 とざす
+	閉ざす  to_shut/close/lock
+
+1 どこ
+	何処  where
+
+1 どこにもない
+	何処にもない  nowhere
+
+1 なる
+	成る  to_become
+
+1 に
+	二  two
+
+1 はち
+	八  eight
+
+1 はて
+	果て  the_end/limit
+
+1 はなれる
+	離れる  to_leave/separate
+
+1 はり
+	針  needle/pin
+
+1 ひずみ
+	歪み  strain/distortion/bend
+
+1 ふたつ
+	二つ  two/second
+
+1 ふれる
+	触れる  to_touch/feel/perceive
+
+1 へいこう
+	並行  side-by-side/parallel
+
+1 ぼうとく
+	冒涜  blasphemy/curse
+
+1 ぼくら
+	僕ら  we
+
+1 まねく
+	招く  to_invite/beckon/ask
+
+1 まもる
+	守る  to_protect/defend
+
+1 みせる
+	見せる  to_show/display
+
+1 みみ
+	耳  ear
+
+1 みらい
+	未来  future
+
+1 むじゅん
+	矛盾  contradiction
+
+1 むすう
+	無数  countless/numberless
+
+1 め
+	目  eye
+
+1 もの
+	物  thing/quality
+
+1 ゆえ
+	故  reason/cause
+
+1 りょういき
+	領域  area/domain/region
+
+1 ろく
+	六  six
+
